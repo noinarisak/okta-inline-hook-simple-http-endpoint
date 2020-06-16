@@ -9,7 +9,7 @@ This example demonstrates how to setup a simple HTTP POST endpoint with Okta Too
 
 ## Deploy
 
-> NOTE: Serverless Framework cli needs to [setup](https://www.serverless.com/framework/docs/).
+> NOTE: Serverless Framework cli needs to be [setup](https://www.serverless.com/framework/docs/).
 
 In order to deploy the you endpoint simply run
 
