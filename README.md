@@ -7,6 +7,23 @@ This example demonstrates how to setup a simple HTTP POST endpoint with Okta Too
 - Wrapping an existing internal or external endpoint/service.
 - Integration with Okta Took Inline Hook. When a user authenticates using Okta, additional claims appended to the JSON Web Token either in Access Token and/or ID Token.
 
+## Quick Start
+
+## Get Started
+
+0. Clone the repo.
+
+```bash
+git clone git@github.com:noinarisak/okta-inline-hook-simple-http-endpoint.git
+cd okta-inline-hook-simple-http-endpoint
+```
+
+1.  Install serverless via npm
+
+```bash=
+$ npm install -g serverless
+```
+
 ## Deploy
 
 > NOTE: Serverless Framework cli needs to be [setup](https://www.serverless.com/framework/docs/).
@@ -14,6 +31,7 @@ This example demonstrates how to setup a simple HTTP POST endpoint with Okta Too
 In order to deploy the you endpoint simply run
 
 ```bash
+
 serverless deploy
 ```
 
