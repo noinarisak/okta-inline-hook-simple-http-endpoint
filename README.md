@@ -9,8 +9,6 @@ This example demonstrates how to setup a simple HTTP POST endpoint with Okta Too
 
 ## Quick Start
 
-## Get Started
-
 0. Clone the repo.
 
 ```bash
